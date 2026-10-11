@@ -16,6 +16,7 @@
 
 ## 项目目录结构
 
+```text
 Food-Calorie-Prediction/
 ├── assets/                  # 演示用图片 (RGB 与深度图)
 ├── python_food/             # 核心代码
